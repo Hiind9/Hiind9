@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there<br>👩🏻‍💻 I finished intensive DevOps course<br>🔭 I'm Currently sharpen my skills in creating SaaS PaaS, IaaS<br>🎯 Deploying Applications in full automation <br>👩‍🔧 Monitoring all steps 
+Hi there<br>👩🏻‍💻 I finished intensive DevOps course<br>🔭 I'm Currently sharpen my skills in Softeware Engineering, and creating SaaS PaaS, IaaS<br>🎯 Deploying Applications in full automation <br>👩‍🔧 Monitoring all steps 
 
 
 ## 🌐 Socials:
